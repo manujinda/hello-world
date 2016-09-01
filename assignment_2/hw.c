@@ -5,5 +5,4 @@
 
 void hello ( void ) {
     printf("\nHello World\n");
-
 }
