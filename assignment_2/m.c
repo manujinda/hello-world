@@ -39,5 +39,5 @@ int main ( int argc, char ** argv ) {
     fprintf ( fp, "%s", f_name );
     fclose(fp);
 
-    return 0;
+    return 20;
 }
